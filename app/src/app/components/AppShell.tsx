@@ -9,7 +9,7 @@ export function AppShell({ children }: { children: ReactNode }) {
     <div className="app-shell">
       <header>
         <Link className="brand" to="/">
-          MITSURU FARM <small>圃場記録</small>
+          MITTSU FARM <small>圃場記録</small>
         </Link>
         <nav>
           <NavLink to="/">ホーム</NavLink>

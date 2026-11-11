@@ -14,7 +14,7 @@ export function LoginPage() {
     <main className="login">
       <div className="login-card">
         <p className="eyebrow">FIELD RECORD</p>
-        <h1>MITSURU FARM</h1>
+        <h1>MITTSU FARM</h1>
         <p>圃場・栽培・作業・収穫をまとめて記録します。</p>
         {authConfigured ? (
           <button className="primary" onClick={() => void login()}>

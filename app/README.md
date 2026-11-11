@@ -1,4 +1,4 @@
-# MITSURU FARM 圃場記録アプリ
+# MITTSU FARM 圃場記録アプリ
 
 公開サイトとは独立した認証付きSPAです。GitHub Pagesでは `/hojo-app/` に公開します。
 

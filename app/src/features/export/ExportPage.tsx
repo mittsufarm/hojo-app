@@ -157,7 +157,7 @@ export function ExportPage() {
       const url = URL.createObjectURL(blob)
       const a = document.createElement('a')
       a.href = url
-      a.download = `mitsurufarm-export-${startDate}_to_${endDate}.json`
+      a.download = `mittsufarm-export-${startDate}_to_${endDate}.json`
       document.body.appendChild(a)
       a.click()
       document.body.removeChild(a)
